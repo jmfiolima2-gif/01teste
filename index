@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial - Exemplo</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        h1 { color: #333; }
+        p { color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo ao Meu Site</h1>
+    <p>Este é um arquivo <code>index.html</code> de exemplo.</p>
+    <a href="sobre.html">Sobre nós</a>
+</body>
+</html>
+  
